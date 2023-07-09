@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(90deg, rgba(214,97,237,1) 0%, rgba(219,56,210,1) 19%, rgba(138,87,212,1) 49%, rgba(76,125,188,1) 72%, rgba(102,224,255,1) 91%, rgba(28,183,201,1) 99%);
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+.hero{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
